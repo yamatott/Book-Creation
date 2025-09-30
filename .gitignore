@@ -1,1 +1,4 @@
+# Env files
 .env
+.env.*
+!.env.example    # Track only the example env file
